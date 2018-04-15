@@ -40,3 +40,61 @@ body{
     font-size: 0.75rem;
     float: left;
 }
+
+
+.paragraph1{
+    width: 300px; 
+    height: 250px;
+    float: left;
+    padding: 10px;
+}
+
+.text1{
+    float:left; 
+}
+
+.photo1{
+    float: left; 
+}
+
+.paragraph2{
+    width: 300px; 
+    height: 250px;
+    float: left;
+    padding: 10px;
+}
+
+.text2{
+    float:left;
+}
+
+.photo2{
+    float: left; 
+}
+
+.paragraph3{
+    width: 300px; 
+    height: 250px;
+    float: left;
+    padding: 10px;
+}
+
+.text3{
+    float:left;
+}
+
+.photo3{
+    float: left;
+}
+
+.endbanner{
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    text-decoration: none;
+}
+
+.endbanner a:hover{
+    color: #BAB2B5;
+}
