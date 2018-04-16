@@ -20,6 +20,7 @@ body{
     max-width: 950px;
     margin-left: auto;
     margin-right: auto;
+    padding: 15px;
 }
 .footer{
     max-width: 950px;
@@ -58,7 +59,7 @@ body{
     margin-left: 13.3px;
 }
 
-.text1{
+.text{
     float:left; 
 }
 
