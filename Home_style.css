@@ -16,6 +16,16 @@ body{
     margin-left: auto;
     margin-right: auto;
 }
+.content{
+    max-width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.footer{
+    max-width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 .logo{
     margin-top: 25px;
@@ -41,11 +51,11 @@ body{
     float: left;
 }
 
-.paragraph1{
+.paragraph{
     width: 300px; 
     height: 250px;
     float: left;
-    padding: 10px;
+    margin-left: 13.3px;
 }
 
 .text1{
@@ -60,11 +70,12 @@ body{
     width: 300px; 
     height: 250px;
     float: left;
-    padding: 10px;
+    margin-left: 10px;
 }
 
 .text2{
     float:left;
+    width:290px;
 }
 
 .photo2{
@@ -76,6 +87,10 @@ body{
     height: 250px;
     float: left;
     padding: 10px;
+}
+img {
+    width: 100%;
+    height: auto;
 }
 
 .text3{
@@ -92,6 +107,7 @@ body{
     margin-right: auto;
     color: black;
     text-decoration: none;
+    float:left;
 }
 
 .endbanner a:hover{
