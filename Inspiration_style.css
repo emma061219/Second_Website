@@ -34,6 +34,11 @@ body{
     color: #AC3B61;
 }
 
+.logo a{
+    color: #3AAFA9;
+    text-decoration: none;
+}
+
 .links a{
     color: black;
     text-decoration: none;
@@ -49,4 +54,9 @@ body{
     margin-top: 40px; 
     font-size: 0.75rem;
     float: left;
+}
+
+.endbanner a{
+    color: #3AAFA9;
+    text-decoration: none;
 }

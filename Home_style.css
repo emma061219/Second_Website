@@ -35,6 +35,10 @@ body{
     color: #3AAFA9;
 }
 
+.logo a{
+    color: #3AAFA9;
+    text-decoration: none;
+}
 .links a{
     color: black;
     text-decoration: none;
@@ -50,6 +54,8 @@ body{
     margin-top: 40px; 
     font-size: 0.75rem;
     float: left;
+    color: black;
+    text-decoration: none;
 }
 
 .paragraph{
@@ -102,6 +108,22 @@ img {
     float: left;
 }
 
+.Mylatestwork{
+    float: inherit;
+    margin-left: 350px;
+    margin-right: 350px;
+    font-size: 1.4rem;
+    color: #2B7A78;
+}
+
+.Aboutme{
+    width: 400px; 
+    height: 250px;
+    float: left;
+    padding: 10px;
+    text-align: left;
+}
+
 .endbanner{
     margin-top: 20px;
     margin-left: auto;
@@ -113,4 +135,9 @@ img {
 
 .endbanner a:hover{
     color: #BAB2B5;
+}
+
+.endbanner a{
+    color: #3AAFA9;
+    text-decoration: none;
 }
