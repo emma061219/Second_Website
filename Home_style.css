@@ -110,8 +110,8 @@ img {
 
 .Mylatestwork{
     float: inherit;
-    margin-left: 350px;
-    margin-right: 350px;
+    margin-left: 364px;
+    margin-right: 236px;
     font-size: 1.4rem;
     color: #2B7A78;
 }
@@ -122,12 +122,14 @@ img {
     float: left;
     padding: 10px;
     text-align: left;
+    margin-left: 80px;
 }
 
 .endbanner{
     margin-top: 20px;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 360px;
+    margin-right: 240px;
+    margin-bottom: 10px;
     color: black;
     text-decoration: none;
     float:left;
@@ -140,4 +142,11 @@ img {
 .endbanner a{
     color: #3AAFA9;
     text-decoration: none;
+}
+
+.skatephoto{
+    float: right;
+    margin-right: 100px;
+    margin-top: 15px;
+
 }
